@@ -20,7 +20,7 @@
 - Tools: Git, VS Code, Jupyter, Tableau
 
 ## 📫 Connect with Me
-- LinkedIn: [(https://www.linkedin.com/in/kiva-vakharia/)]
+- LinkedIn: https://www.linkedin.com/in/kiva-vakharia/
 - Email: kiva2004@gmail.com
 
 <!--
