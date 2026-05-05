@@ -9,9 +9,9 @@
 - A Macros Tracker with a Database of Indian Recipes for My Mom
 - An Application for Small Business Delivery Optimization
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m Currently Practicing ...
 - Machine Learning Algorithms
-- React
+- The React Framework
 - Surfing!
 
 ## 🛠️ Tech Stack
